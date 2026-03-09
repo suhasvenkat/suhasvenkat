@@ -31,15 +31,15 @@
 
 ---
 
-### 🚀 Featured Projects
+## Featured Projects
 
 | 🔬 Project | 📋 Description | 🛠 Stack | 📈 Result |
 |-----------|---------------|---------|---------|
-| [🦴 Bone Fracture Detection](https://github.com/suhasvenkat/bone-fracture-detection) | Classifies bone fractures from X-ray images | ResNet-50, TensorFlow, Keras | **88%+ accuracy** |
-| [⚡ Energy Forecasting Pipeline](https://github.com/suhasvenkat/airflow-weather-pipeline) | LSTM + Transformer + SSL for building energy forecasting | Airflow, TensorFlow, PostgreSQL, Docker | Research pipeline |
-| [🐔 Poultry Disease Classification](https://github.com/suhasvenkat/chicken-disease-classification) | Detects disease in poultry from images | CNN, TensorFlow, DVC, Docker | **92% accuracy** |
+| [⚡ Energy Forecasting Research](https://github.com/suhasvenkat/energy-forecasting-research) | LSTM vs Transformer vs GNN vs SSL for building energy forecasting | TensorFlow, PyTorch, GNN, SSL | 5 RQs |
+| [🦴 Bone Fracture Detection](https://github.com/suhasvenkat/bone-fracture-detection) | Classifies bone fractures from X-ray images | ResNet-50, TensorFlow | 88%+ accuracy |
+| [⚡ Energy Pipeline](https://github.com/suhasvenkat/airflow-weather-pipeline) | Airflow ETL pipeline feeding deep learning models | Airflow, PostgreSQL, Docker | Research pipeline |
+| [🐔 Poultry Disease Classification](https://github.com/suhasvenkat/chicken-disease-classification) | Detects disease in poultry from images | CNN, TensorFlow, DVC, Docker | 92% accuracy |
 | [📊 Student Performance Prediction](https://github.com/suhasvenkat/student-performance-prediction) | Predicts academic outcomes from student data | Scikit-learn, Python | ML pipeline |
-
 ---
 
 ### 🛠️ Tech Stack
